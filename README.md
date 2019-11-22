@@ -5,6 +5,8 @@
 
 This demo repository has an ASCII cow saying "Hello world."
 
+This demo is also useful for understanding Travis CI (continuous integration) using the tutorial on (Erik Matsen's blog)[http://erick.matsen.org/2019/11/05/travis.html]. 
+
 ## Installation
 
 A complete "from scratch" installation is documented as the Dockerfile in this repository.
